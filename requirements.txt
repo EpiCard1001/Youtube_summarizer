@@ -1,0 +1,8 @@
+streamlit
+youtube_transcript_api
+sklearn
+rank_bm25
+openai
+langchain
+langchain-community
+sentence_transformers
